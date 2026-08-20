@@ -1,0 +1,26 @@
+{
+    "id": "gtag",
+    "name": "Google Analytics",
+    "description": "Google Analytics 4 (gtag.js) with an optional cookie-consent banner. Survives HumHub's pjax navigation, and can leave administrators out of the numbers.",
+    "keywords": [
+        "analytics",
+        "google",
+        "gtag",
+        "ga4",
+        "statistics",
+        "consent",
+        "cookie"
+    ],
+    "version": "1.0.0",
+    "humhub": {
+        "minVersion": "1.18"
+    },
+    "homepage": "https://tou.ski",
+    "authors": [
+        {
+            "name": "tou.ski",
+            "homepage": "https://tou.ski",
+            "role": "Developer"
+        }
+    ]
+}
